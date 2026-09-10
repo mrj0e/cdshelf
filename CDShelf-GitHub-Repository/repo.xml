@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extensions>
+  <details>
+    <title lang="EN">Joe's Lyrion Plugins</title>
+  </details>
+  <plugins>
+    <plugin name="CDShelf" version="0.7.1" minTarget="8.0" maxTarget="9.*">
+      <title lang="EN">CD Shelf</title>
+      <desc lang="EN">A jewel-case style album shelf for Lyrion Music Server, based on the original project by Reddit user ChrisHoppyBot, with Material integration, player selection and full-width layout.</desc>
+      <category>misc</category>
+      <changes lang="EN">Adds attribution to ChrisHoppyBot and retains the full-width shelf layout, player selection, Material app integration and plugin information page.</changes>
+      <creator>ChrisHoppyBot; Joe Leech</creator>
+      <url>https://raw.githubusercontent.com/mrj0e/cdshelf/main/releases/CDShelf-0.7.1.zip</url>
+      <sha>33abb81a33356f340a8ad38e962e9e981b362517</sha>
+    </plugin>
+  </plugins>
+</extensions>
