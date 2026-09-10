@@ -1,25 +1,24 @@
 # CD Shelf for Lyrion Music Server
 
-Private Lyrion Music Server plugin repository for CD Shelf.
+A jewel-case style album browser for Lyrion Music Server, with Material Skin integration, player selection and a full-width shelf layout.
 
-## First-time setup
+## Attribution
 
-1. Create a GitHub repository named `lms-cdshelf`.
-2. Upload the contents of this folder to the repository root.
-3. In `repo.xml`, replace `YOUR_GITHUB_USERNAME` with your GitHub username.
-4. Commit the change.
-5. In Lyrion Music Server, open **Settings -> Plugins**.
-6. Add this URL to **Additional Repositories**:
+CD Shelf is based on the **“CD Shelf – a custom 3D CD spine browser”** shared by Reddit user **ChrisHoppyBot** in r/squeezebox. Original concept and code by ChrisHoppyBot. LMS plugin packaging, Material integration, player selection and subsequent UI modifications by Joe Leech.
 
-   `https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/lms-cdshelf/main/repo.xml`
+Original Reddit post:
+https://www.reddit.com/r/squeezebox/comments/1v733oc/share_cd_shelf_a_custom_3d_cd_spine_browser/
 
-7. Apply/reload the Plugins page. CD Shelf should appear as an installable plugin.
-8. Install it from LMS rather than copying it into `InstalledPlugins` manually.
+## Lyrion repository
+
+Add this URL under **Settings -> Plugins -> Additional Repositories**:
+
+`https://raw.githubusercontent.com/mrj0e/cdshelf/main/repo.xml`
 
 ## Release files
 
-- `releases/CDShelf-0.7.0.zip` - installable plugin archive
-- `releases/CDShelf-0.7.0.sha1` - SHA1 checksum
+- `releases/CDShelf-0.7.1.zip` - installable plugin archive
+- `releases/CDShelf-0.7.1.sha1` - SHA1 checksum
 - `repo.xml` - LMS repository manifest
 
-The SHA1 in `repo.xml` already matches the included ZIP. If the ZIP changes, regenerate its SHA1 and update `repo.xml`.
+The SHA1 in `repo.xml` matches the included ZIP. If the ZIP changes, regenerate its SHA1 and update `repo.xml`.
