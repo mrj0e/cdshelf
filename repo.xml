@@ -10,7 +10,7 @@
 
   <plugins>
 
-    <plugin name="CDShelf" version="0.7.4" minTarget="8.0" maxTarget="9.*">
+    <plugin name="CDShelf" version="0.7.5" minTarget="8.0" maxTarget="9.*">
 
       <title lang="EN">CD Shelf</title>
 
@@ -18,15 +18,15 @@
 
       <category>misc</category>
 
-      <changes lang="EN">Adds a proper LMS settings page with launch links for both shelf views, GitHub project information and original-project attribution.</changes>
+      <changes lang="EN">Adds Previous, Play/Pause and Next controls to the player bar. Removes the volume control and automatic screensaver mode so the CD shelf remains visible indefinitely. Includes release notes.</changes>
 
       <creator>ChrisHoppyBot; Joe Leech</creator>
 
       <link>https://github.com/mrj0e/cdshelf</link>
 
-      <url>https://raw.githubusercontent.com/mrj0e/cdshelf/main/releases/CDShelf-0.7.4.zip</url>
+      <url>https://raw.githubusercontent.com/mrj0e/cdshelf/main/releases/CDShelf-0.7.5.zip</url>
 
-      <sha>95a6cedaa2421e84a8a41a7ec8307e462cb365b4</sha>
+      <sha>de4305cfa5774af81d89df16c1448a801e2488a9</sha>
 
     </plugin>
 
