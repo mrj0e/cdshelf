@@ -1,5 +1,7 @@
 # CD Shelf for Lyrion Music Server
 
+![CD Shelf screenshot](images/cdshelf-screenshot.png)
+
 A jewel-case style album browser for Lyrion Music Server, with Material Skin integration, player selection and a full-width shelf layout.
 
 ## Attribution
