@@ -10,7 +10,7 @@
       <category>misc</category>
       <changes lang="EN">Adds full-width shelf layout, player selection, Material app integration and a plugin information page.</changes>
       <creator>Joe Leech</creator>
-      <url>https://raw.githubusercontent.com/mrj0e/lms-cdshelf/main/releases/CDShelf-0.7.0.zip</url>
+      <url>https://raw.githubusercontent.com/mrj0e/cdshelf/main/releases/CDShelf-0.7.0.zip</url>
       <sha>bf9f11ac863290a8c34ac56d74dc10db8e560769</sha>
     </plugin>
   </plugins>
